@@ -1,0 +1,5 @@
+input_files/
+consolidated_report.xlsx
+data_quality_log.txt
+__pycache__/
+*.pyc
